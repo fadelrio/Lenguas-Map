@@ -1,6 +1,7 @@
-# [FIUBA Map](https://fede.dm/FIUBA-Map/)
+# Lenguas Map
 
-Mapa de materias y sus correlativas de la Facultad de Ingeniería
+Fork del repo [FIUBA Map](https://github.com/fdelmazo/FIUBA-Map)
+Mi hermana me pidió algo parecido al fiuba map para su carrera de traductorado en el "IES en Lenguas Vivas "Juan Ramón Fernández"", voy a ver cuanto me la vivo y hasta donde llego.
 
 ---
 
