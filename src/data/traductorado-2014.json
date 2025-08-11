@@ -1,0 +1,370 @@
+[
+  {
+    "id": "EXIN",
+    "materia": "Examen de ingreso",
+    "creditos": 0,
+    "categoria": "*CBC",
+    "level": -1
+  },
+  {
+    "id": "CBC",
+    "materia": "Ingreso",
+    "creditos": 0,
+    "categoria": "CBC",
+    "level": 0,
+    "correlativas": "EXIN"
+  },
+  {
+    "id": "1",
+    "materia": "Lengua inglesa I",
+    "creditos": 8,
+    "correlativas": "CBC",
+    "categoria": "Materias Obligatorias",
+    "level": 1
+  },
+  {
+    "id": "2",
+    "materia": "Fonética I",
+    "creditos": 4,
+    "correlativas": "CBC",
+    "categoria": "Materias Obligatorias",
+    "level": 1
+  },
+  {
+    "id": "3",
+    "materia": "Lengua española I",
+    "creditos": 6,
+    "correlativas": "CBC",
+    "categoria": "Materias Obligatorias",
+    "level": 1
+  },
+  {
+    "id": "4",
+    "materia": "Fundamentos de la traducción",
+    "creditos": 6,
+    "correlativas": "CBC",
+    "categoria": "Materias Obligatorias",
+    "level": 1
+  },
+  {
+    "id": "5",
+    "materia": "Introducción a los estudios culturales",
+    "creditos": 4,
+    "correlativas": "CBC",
+    "categoria": "Materias Obligatorias",
+    "level": 1
+  },
+  {
+    "id": "6",
+    "materia": "Lengua inglesa II",
+    "creditos": 8,
+    "correlativas": "1",
+    "categoria": "Materias Obligatorias",
+    "level": 2
+  },
+  {
+    "id": "7",
+    "materia": "Gramática inglesa I",
+    "creditos": 6,
+    "correlativas": "CBC",
+    "categoria": "Materias Obligatorias",
+    "level": 2
+  },
+  {
+    "id": "8",
+    "materia": "Fonética II",
+    "creditos": 5,
+    "correlativas": "1-2",
+    "categoria": "Materias Obligatorias",
+    "level": 2
+  },
+  {
+    "id": "9",
+    "materia": "Traducción I",
+    "creditos": 6,
+    "correlativas": "4",
+    "categoria": "Materias Obligatorias",
+    "level": 2
+  },
+  {
+    "id": "10",
+    "materia": "Herramientas informáticas Aplicadas a la traducción",
+    "creditos": 4,
+    "correlativas": "CBC",
+    "categoria": "Materias Obligatorias",
+    "level": 2
+  },
+  {
+    "id": "11",
+    "materia": "Lengua inglesa III",
+    "creditos": 6,
+    "correlativas": "2-6-7",
+    "categoria": "Materias Obligatorias",
+    "level": 3
+  },
+  {
+    "id": "12",
+    "materia": "Gramática inglesa II",
+    "creditos": 6,
+    "correlativas": "6-7",
+    "categoria": "Materias Obligatorias",
+    "level": 3
+  },
+  {
+    "id": "13",
+    "materia": "Lengua española II",
+    "creditos": 6,
+    "correlativas": "3",
+    "categoria": "Materias Obligatorias",
+    "level": 3
+  },
+  {
+    "id": "14",
+    "materia": "Traducción II",
+    "creditos": 6,
+    "correlativas": "3-6-7-9",
+    "categoria": "Materias Obligatorias",
+    "level": 3
+  },
+  {
+    "id": "15",
+    "materia": "Elementos de terminología y documentación",
+    "creditos": 4,
+    "correlativas": "4",
+    "categoria": "Materias Obligatorias",
+    "level": 3
+  },
+  {
+    "id": "16",
+    "materia": "Introducción a los estudios literarios",
+    "creditos": 6,
+    "correlativas": "CBC",
+    "categoria": "Materias Obligatorias",
+    "level": 3
+  },
+  {
+    "id": "17",
+    "materia": "Lengua inglesa IV",
+    "creditos": 6,
+    "correlativas": "11",
+    "categoria": "Materias Obligatorias",
+    "level": 4
+  },
+  {
+    "id": "18",
+    "materia": "Análisis del discurso",
+    "creditos": 5,
+    "correlativas": "6-7-13",
+    "categoria": "Materias Obligatorias",
+    "level": 4
+  },
+  {
+    "id": "19",
+    "materia": "Redacción en español",
+    "creditos": 6,
+    "correlativas": "13",
+    "categoria": "Materias Obligatorias",
+    "level": 4
+  },
+  {
+    "id": "20",
+    "materia": "Panorama de la literatura de los pueblos de habla inglesa",
+    "creditos": 4,
+    "correlativas": "6-16",
+    "categoria": "Materias Obligatorias",
+    "level": 4
+  },
+  {
+    "id": "21",
+    "materia": "Introducción a la traducción técnica",
+    "creditos": 5,
+    "correlativas": "10-14-15",
+    "categoria": "Materias Obligatorias",
+    "level": 4
+  },
+  {
+    "id": "22",
+    "materia": "Historia y cultura contemporánea de los EEUU",
+    "creditos": 3,
+    "correlativas": "5-6",
+    "categoria": "Materias Obligatorias",
+    "level": 4
+  },
+  {
+    "id": "23",
+    "materia": "Lengua inglesa V",
+    "creditos": 6,
+    "correlativas": "8-12-17",
+    "categoria": "Materias Obligatorias",
+    "level": 5
+  },
+  {
+    "id": "24",
+    "materia": "Lingüistica aplicada a la traducción",
+    "creditos": 4,
+    "correlativas": "12-13-17",
+    "categoria": "Materias Obligatorias",
+    "level": 5
+  },
+  {
+    "id": "25",
+    "materia": "Estudios comparativos del inglés y el español",
+    "creditos": 6,
+    "correlativas": "12-13-17",
+    "categoria": "Materias Obligatorias",
+    "level": 5
+  },
+  {
+    "id": "26",
+    "materia": "Traducción periodística",
+    "creditos": 6,
+    "correlativas": "5-11-12-14-19",
+    "categoria": "Materias Obligatorias",
+    "level": 5
+  },
+  {
+    "id": "27",
+    "materia": "Introducción a la traducción literaria",
+    "creditos": 6,
+    "correlativas": "5-14-16-17-19-20",
+    "categoria": "Materias Obligatorias",
+    "level": 5
+  },
+  {
+    "id": "28",
+    "materia": "Lengua inglesa VI",
+    "creditos": 6,
+    "correlativas": "18-23",
+    "categoria": "Materias Obligatorias",
+    "level": 6
+  },
+  {
+    "id": "29",
+    "materia": "Historia y cultura contemporánea del Reino Unido",
+    "creditos": 3,
+    "correlativas": "5-6",
+    "categoria": "Materias Obligatorias",
+    "level": 6
+  },
+  {
+    "id": "30",
+    "materia": "Introducción a la traducción científica",
+    "creditos": 6,
+    "correlativas": "14-15-17-18-19",
+    "categoria": "Materias Obligatorias",
+    "level": 6
+  },
+  {
+    "id": "31",
+    "materia": "Traducción inversa",
+    "creditos": 5,
+    "correlativas": "14-18-23-25",
+    "categoria": "Materias Obligatorias",
+    "level": 6
+  },
+  {
+    "id": "32",
+    "materia": "Movimientos literarios del siglo XX",
+    "creditos": 3,
+    "correlativas": "20",
+    "categoria": "Materias Obligatorias",
+    "level": 6
+  },
+  {
+    "id": "33",
+    "materia": "Introducción a la interpretación",
+    "creditos": 5,
+    "correlativas": "5-8-14-17-18",
+    "categoria": "Materias Obligatorias",
+    "level": 6
+  },
+  {
+    "id": "34",
+    "materia": "Lengua inglesa especializada para interpretación",
+    "creditos": 5,
+    "correlativas": "28-33",
+    "categoria": "Materias Obligatorias",
+    "level": 7
+  },
+  {
+    "id": "35",
+    "materia": "Análisis y producción de discurso oral en español",
+    "creditos": 4,
+    "correlativas": "18-19",
+    "categoria": "Materias Obligatorias",
+    "level": 7
+  },
+  {
+    "id": "36",
+    "materia": "Fonética III",
+    "creditos": 3,
+    "correlativas": "8",
+    "categoria": "Materias Obligatorias",
+    "level": 7
+  },
+  {
+    "id": "37",
+    "materia": "Interpretación consecutiva I",
+    "creditos": 5,
+    "correlativas": "28-33",
+    "categoria": "Materias Obligatorias",
+    "level": 7
+  },
+  {
+    "id": "38",
+    "materia": "Interpretación simultánea I",
+    "creditos": 6,
+    "correlativas": "28-33",
+    "categoria": "Materias Obligatorias",
+    "level": 7
+  },
+  {
+    "id": "40",
+    "materia": "Interpretación consecutiva II",
+    "creditos": 5,
+    "correlativas": "36-37",
+    "categoria": "Materias Obligatorias",
+    "level": 8
+  },
+  {
+    "id": "41",
+    "materia": "Interpretación simultánea II",
+    "creditos": 6,
+    "correlativas": "35-36-38",
+    "categoria": "Materias Obligatorias",
+    "level": 8
+  },
+  {
+    "id": "42",
+    "materia": "Interpretación al inglés",
+    "creditos": 6,
+    "correlativas": "28-31-36-37-38",
+    "categoria": "Materias Obligatorias",
+    "level": 8
+  },
+  {
+    "id": "43",
+    "materia": "Historia social del mundo contemporáneo",
+    "creditos": 3,
+    "correlativas": "20-22-23-29",
+    "categoria": "Materias Obligatorias",
+    "level": 8
+  },
+  {
+    "id": "44",
+    "materia": "Doblaje y transcripción",
+    "creditos": 6,
+    "correlativas": "8-21-27-28-30",
+    "categoria": "Materias Obligatorias",
+    "level": 8
+  },
+  {
+    "id": "45",
+    "materia": "Estudios de traducción",
+    "creditos": 4,
+    "correlativas": "9",
+    "categoria": "Materias Obligatorias",
+    "level": 8
+  }
+
+]

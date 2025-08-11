@@ -29,6 +29,16 @@ import { UserType } from "./types/User";
 // lo dejamos así
 
 export const CARRERAS: UserType.Carrera[] = [
+   {
+    id: "traductorado",
+    link: "https://ieslvf-caba.infd.edu.ar/sitio/departamento-de-ingles-2/upload/Traductorado_en_Ingles_2014_last.pdf",
+    ano: 2014,
+    graph: require("./data/traductorado-2014.json"),
+    creditos: {
+      total: 208,
+      electivas: 40,
+    },
+  },
   {
     id: "sistemasviejo",
     link: "https://fi.uba.ar/grado/carreras/lic-en-analisis-de-sistemas/plan-de-estudios",
@@ -684,6 +694,11 @@ export const CARRERAS: UserType.Carrera[] = [
 // Acá se define como se le presentan al usuario la lista de planes/carreras
 // Todos los ids de `CARRERAS` tienen que estar usados acá
 export const PLANES = [
+  {
+    nombre: "Tradcutorado",
+    nombrecorto: "Tradu",
+    planes: ["traductorado"],
+  },
   {
     nombre: "Ingeniería Civil",
     nombrecorto: "Civil",
